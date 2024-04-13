@@ -348,6 +348,7 @@ main{
     font-size: 1.9rem;
     width: 90%;
     font-weight: 400;
+    margin: 0 auto;
 }
 
 .intro_wrapper{
@@ -760,5 +761,20 @@ main{
     background-color: #ffffff;
     color: #0359ff;
 
+}
+
+.flat_review{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 2rem;
+}
+.omnic_wrpper_container{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 2rem;
 }
 

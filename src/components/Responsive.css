@@ -2,7 +2,7 @@
 
   .box_cantainer1,
   .box_cantainer2 {
-    margin-top: 3rem !important;
+    margin-top: 8rem !important;
   }
 
   .box_cantainer3 {
@@ -13,20 +13,26 @@
   .introduction_boxes {
     padding-bottom: 30rem;
   }
+  .help_cantainer{
+    padding-bottom: 10rem;
+  }
+  .review_cantainer{
+    width: 80% !important;
+
+  }
 }
 
 @media (max-width:990px) and (min-width:769px) {
-  .introduction_boxes {
-    width: 80%;
-  }
+
 
   .omnichannel_boxes {
-    width: 80%;
+    width: 80% !important;
 
   }
 
   .introduction_boxes {
     padding-bottom: 50rem;
+    width: 80%;
   }
 
   .omnichannel_box {
@@ -42,6 +48,8 @@
   }
 
 
+
+
 }
 
 @media (max-width:768px) {
@@ -53,33 +61,38 @@
   .container_wrapper h1 {
     font-size: 3rem !important;
   }
-
+  .help_wrapper{
+    width: 90% !important;
+  }
 
   .help_wrapper>h2 {
     font-size: 2.5rem !important;
     width: 100% !important;
   }
 
-  .introduction_boxes {
-    width: 80%;
+  .omnichannel_boxes{
+    width: 90% !important;
+    padding-top: 5rem !important;
   }
 
 
   .introduction_boxes {
-    padding-bottom: 73rem;
+    width: 90% !important;
+    padding-bottom: 24rem;
   }
 
   .box_wrapper {
     row-gap: 12rem !important;
+    padding-top: 2rem;
   }
 
   .message_box>p {
     font-size: 1.2rem !important;
   }
 
-  .box_cantainer1 {
+  /* .box_cantainer1 {
     margin-top: 10rem !important;
-  }
+  } */
 
   .omnichannel_box {
     margin-top: 14rem !important;
@@ -90,7 +103,7 @@
   }
 
   .future_join {
-    bottom: 0% !important;
+    bottom: 5% !important;
   }
 
   .future_join>h2 {
@@ -98,7 +111,7 @@
   }
 
   .flatfrom_review {
-    padding-bottom: 22rem !important;
+    padding-bottom: 25rem !important;
 
   }
 
@@ -109,4 +122,59 @@
   .logo_cantainer {
     width: 90% !important;
   }
+  .review_cantainer{
+    margin-top: 10rem !important;
+    width: 90% !important;
+  }
+  .curver_box{
+    height: 25rem !important;
+  } 
+  .omni_data{
+    height: 26rem;
+  }
+  .image_cantainer4{
+    top: 48%;
+  }
+  .image_cantainer1{
+    top:42%;
+  }
+  .image_cantainer3{
+    top:48%;
+  }
+  .image_cantainer4{
+    top:53%;
+  }
+  .omic_box{
+    width: 90%;
+    margin: 0 auto;
+  }
+  .buttons_links{
+    padding-top: 2rem !important;
+  }
+  .flat_review{
+    width: 90% !important;
+  }
+  .omnic_wrpper_container{
+    width: 90% !important;
+  }
 }
+@media (max-width:426px){
+  .review_cantainer{
+    margin-top: 18rem !important;
+  }
+  .box_cantainer1{
+    margin-top: 21rem !important;
+  } 
+  .curve{
+    top: -49% !important;
+  }
+  .box_wrapper {
+    row-gap: 12rem !important;
+    padding-top: 10rem;
+  }
+  .introduction_boxes {
+    width: 90% !important;
+    padding-bottom: 73rem !important;
+  }
+}
+

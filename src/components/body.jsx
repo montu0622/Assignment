@@ -452,7 +452,7 @@ const Body = () => {
                     </div>
                 </section>
                 <section>
-                    <div className="review_cantainer">
+                    <div className="omnic_wrpper_container" >
                             <div className="brand_logo">
                                 <img src={Rebag} alt="LOGO"/>
                             </div>
@@ -559,7 +559,7 @@ const Body = () => {
                     </div>
                 </section>
                 <section className="flatfrom_review">
-                    <div className="review_cantainer">
+                    <div className="flat_review ">
                             <div className="brand_logo godt_logo">
                                 <img src={Godt} alt="LOGO"/>
                             </div>

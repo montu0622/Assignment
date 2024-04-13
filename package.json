@@ -47,5 +47,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montu0622/Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/montu0622/Assignment/issues"
+  },
+  "homepage": "https://github.com/montu0622/Assignment#readme"
 }
