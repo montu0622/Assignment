@@ -80,6 +80,9 @@
     width: 90% !important;
     padding-bottom: 24rem;
   }
+  .flatform_wrapper p{
+    width: 90% !important;
+  }
 
   .box_wrapper {
     row-gap: 12rem !important;
@@ -160,17 +163,17 @@
 }
 @media (max-width:426px){
   .review_cantainer{
-    margin-top: 18rem !important;
+    margin-top: 12rem !important;
   }
   .box_cantainer1{
-    margin-top: 21rem !important;
+    margin-top: 18rem !important;
   } 
   .curve{
     top: -49% !important;
   }
   .box_wrapper {
     row-gap: 12rem !important;
-    padding-top: 10rem;
+    padding-top: 1rem;
   }
   .introduction_boxes {
     width: 90% !important;
